@@ -20,3 +20,6 @@
   + Viết [Báo cáo dự án](https://drive.google.com/open?id=1GiTUaHDLzsQgJ__a02d9EzcgsQ7GNkjnNpHfBEne2wY).
   + Thực hiện [câu hỏi trắc nghiệm](https://docs.google.com/spreadsheets/d/1nYhXQ4Zyw5RZxdw37dMWKhO-TpJ7bJgl2-mVbd6kjq4/edit#gid=53497746) cho khóa học.
   + Thực hiện tài liệu [SEMAT](https://docs.google.com/spreadsheets/d/1morO_O0RKPnylfjxXBhJIBUIFtKugEdRLqVGfWTFDdg/edit?usp=drive_web).
+--Người chấm: Nguyễn Thu Hiền
+-Điểm:10
+-Nhận xét:Hoàn thành đủ bài tập hàng tuần và các khóa học thầy giao. Tích cực tham gia đóng góp cho phần mềm của nhóm. Báo cáo cá nhân đầy đủ chi tiết, chính xác. Tinh thần tự học cao.
