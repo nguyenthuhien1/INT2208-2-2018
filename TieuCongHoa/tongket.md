@@ -13,3 +13,6 @@ MSSV: 16021289.
   * PHP và các framework, WordPress ở mức cơ bản.
   * Học cắt HTML bằng PSD.
   * Tự làm cho mình 1 trang [web](http://www.tieuconghoa.tk/)
+  --Người chấm: Nguyễn Thu Hiền
+  -Điểm:10
+  -Nhận xét:Hoàn thành đủ bài tập hàng tuần và các khóa học thầy giao. Tích cực tham gia đóng góp cho phần mềm của nhóm. Báo cáo cá nhân đầy đủ chi tiết, chính xác
