@@ -27,3 +27,7 @@ Công nghệ phần mềm 2 - 2018
 Người chấm: Trần Văn Hải
 Điểm: 9
 Nhận xét: Hoàn thành đầy đủ các bài tập, tham gia viết báo cáo và làm bài tập nhóm.
+
+Người chấm: Nguyễn Thu Hiền
+Điểm: 10
+Nhận xét: Tinh thần tự học cao, bài tập nhóm làm đầy đủ chi tiết, báo cáo đầy đủ link, chính xác.
